@@ -1,2 +1,3 @@
-# pandas
-Pandas from China
+# Pandas
+
+Pandas from China.
