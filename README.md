@@ -1,3 +1,3 @@
 # Pandas
 
-Pandas from China.
+Pandas from China that are used to analyse data.
